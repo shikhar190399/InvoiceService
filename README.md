@@ -14,7 +14,9 @@ JSON Structure: Creates a JSON structure for valid invoices, supporting multiple
 Mock Service Call: Simulates invoice creation with console.log.
 Error Handling: Provides robust error handling throughout the process.
 Usage
-Start the Server: Run npm start
+1. Clone the repo
+2. Install the dependencies - npm install
+3. Start the Server: Run npm start
 
 
 API Endpoints
