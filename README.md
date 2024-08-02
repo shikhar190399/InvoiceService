@@ -18,7 +18,6 @@ Start the Server: Run npm start
 
 
 API Endpoints
-Get Template File Format
 
 Endpoint: /app/upload
 Method: POST
